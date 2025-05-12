@@ -1,0 +1,72 @@
+
+body {
+    font-family: 'Times New Roman';
+    min-height: 100vh;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    color: aliceblue;
+    padding: 25px;
+    min-height: 50vh;
+    background-image: url(../assets/images/pexels-photo-248515.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    font-size: 15px;
+}
+
+.botoon {
+    font-size: 15px;
+    background-color: #2e0300;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+}
+
+.class1 {
+    display: inline-block;
+    width: 310px;
+    vertical-align: top;
+}
+
+.temat {
+    text-align: center;
+    background-color: black;
+}
+
+.class2 {
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+    color: beige;
+}
+
+.content {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.class3 {
+    display: inline-block;
+    width: 570px;
+    padding: 20px;
+    height: 100px;
+}
+
+.class4 {
+    display: inline-block;
+    width: 350px;
+}
